@@ -1,0 +1,12 @@
+body{
+    min-height: 100vh;
+    background-color: rgb(241, 232, 201);
+}
+
+.menu>*{
+    width:6em;
+}
+
+.contact>*{
+    width:6em;
+}
